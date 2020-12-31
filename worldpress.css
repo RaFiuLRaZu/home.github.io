@@ -1,0 +1,253 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-image: url(/th\ \(3\).jpg);
+    padding: 200px;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    position: relative;
+}
+.word{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.word li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px 15px;
+}
+.word li a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+.log{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.log li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px 10px;
+}
+.log li a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+.header h1{
+    color: white;
+    font-size: 50px;
+}
+.header p{
+    color: white;
+    font-size: 25px;
+}
+.header button{
+    margin-top: 20px;
+    border-radius: 3%;
+    background: rgb(24, 42, 90);
+    height: 50px;
+}
+.header button a{
+    font-size: 20px;
+    text-decoration: none;
+    padding: 15px 10px;
+    font-weight: bolder;
+    color: white;
+}
+.button:hover{
+    background: rgb(35, 62, 112);
+}
+.contain{
+    background: #ffebee;
+    height: 500px;
+    position: relative;
+    
+}
+.contain ul{
+    margin-top: 10px;
+    
+}
+.contain ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px 30px;
+    height: 70px;
+    width: 70px;
+    background: #ff8a80;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 15px;
+}
+.contain ul li a{
+    
+    font-size: 30px;
+    color: white;  
+}
+.contain h2{}
+.contain p{
+    padding: 10px 0;
+    font-size: 25px;
+    font-family: Arial,sans-serif;
+}
+.contain img{
+    position: absolute;
+    right: 100px;
+    bottom: 50px;
+    height: 400px;
+    width: 300px;
+}
+.content img{
+    margin-top: 10px;
+    max-width: 100%;
+    margin-left: 0;
+    height: 500px;
+}
+.content p{
+    font-size: 25px;
+}
+.footer{
+    background-color: rgb(17, 15, 15);
+    color: white;
+    height: 600px;
+}
+.meg a{
+    margin-top: 10px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background: rgb(18, 131, 175);
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+}
+.footer button{
+    margin-top: 40px;
+    
+    background: rgb(12, 32, 99);
+    height: 50px;
+    width: 150px;
+    margin: auto;
+    
+    
+}
+.footer button a{
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+.footer button:hover{
+    background: rgb(4, 8, 24);
+}
+.image img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+.image p{
+    font-size: 18px;
+    text-align: left;
+}
+.long-part{
+    background: #000;
+    height: 1000px;
+}
+.div0{
+    height: 200px;
+    width: 300px;
+    background: rgb(58, 55, 59);
+    margin-left: 100px;
+    box-shadow: rgb(252, 248, 248);
+    border-radius: 5px;
+    border: 1px solid gray;
+    text-align: left;
+    
+    
+
+}
+.div0 button{
+    background: rgb(170, 12, 131);
+    height: 30px;
+    width: 200px;
+   
+    border-radius: 5px;
+}
+.div0 button a{
+    text-decoration: none;
+    color: white;
+}
+.div1{
+    margin-top: 100px;
+}
+.div1 h1{
+    font-size: 50px;
+}
+.div1 p{
+    font-size: 20px;
+    color: gray;
+}
+.divg{
+    height: 200px;
+    width: 100%;
+    background: rgb(255, 253, 255);
+    
+    box-shadow: rgb(29, 28, 28);
+    border-radius: 5px;
+    border: 1px solid gray;
+    text-align: left;
+}
+.divg button{
+    background: rgb(170, 12, 131);
+    height: 30px;
+    width: 200px;
+   
+    border-radius: 5px;
+}
+.divg button a{
+    text-decoration: none;
+    color: white;
+}
+.div3{
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+}
+.div3 button{
+ background: rgb(10, 10, 10);
+ height: 40px;
+ border-radius: 5px;
+ border: 1px solid gray;
+ cursor: pointer;
+}
+.div3 button a{
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 5px 10px;
+
+}
+.div4{
+    
+}
+.div4 img{
+   
+    height: 150px;
+    width: 150px;
+    margin-left: 400px;
+}
+.div4 p{
+   color: whitesmoke;
+   font-size: 25px;
+   border-left: 1px solid whitesmoke;
+   
+}
+.footer-bottom{
+    background: rgb(82, 77, 77);
+    color: whitesmoke;
+}
